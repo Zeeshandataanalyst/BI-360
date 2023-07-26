@@ -155,6 +155,7 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must.
 - In this project, we have followed Snowfall data modeling method.
+![image](https://github.com/Zeeshandataanalyst/BI-360/assets/134337532/93fdb139-7db1-441d-95e8-876ba884ed1c)
 
 ### Dashboard designing
 
