@@ -32,12 +32,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
-
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
+- And more 
 
 ## Business related terms
 
